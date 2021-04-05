@@ -36,7 +36,7 @@ For more details, go to https://github.com/dingkeyan93/IQA-optimization.
 
 ## Translation
 
-This part, Pix2pixHD is used as the backbone. The code borrows heavily from https://github.com/NVIDIA/pix2pixHD.
+In this part, Pix2pixHD is used as the backbone. The code borrows heavily from https://github.com/NVIDIA/pix2pixHD.
 
 * datasets
 
