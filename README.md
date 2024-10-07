@@ -44,7 +44,7 @@ The SAR-Optical remote sensing images are obtained by random sampling from the â
 
 ## Contact Us
 
-If you have any questions, please contact us (jiexinz@seu.edu.cn, zjjee@nuaa.edu.cn).
+If you have any questions, please contact us (zhangjiexin@nuaa.edu.cn, zjjee@nuaa.edu.cn).
 
 For the experiment results, please see [Quality Assessment of SAR-to-Optical Image Translation](https://www.mdpi.com/2072-4292/12/21/3472) and [Feature-Guided SAR-to-Optical Image Translation](https://ieeexplore.ieee.org/document/9063491).
 
